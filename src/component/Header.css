@@ -1,0 +1,29 @@
+.logo{
+    top: 8px;
+    position: relative;
+}
+.header__searchInput{
+    width: 820px;
+    margin: 21px;
+    padding: 8px;
+}
+.header__searchIcon{
+        position: absolute;
+        top: 28px;
+        right: 581px;
+        color: black;
+}
+.header__options{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    right: 50px;
+}
+.header__option{
+    margin: 25px;
+    
+}
+.header__optionBasket{
+    position: relative;
+    top: 33px;
+}
